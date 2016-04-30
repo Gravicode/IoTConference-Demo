@@ -1,0 +1,1 @@
+E:\IoTConf\DEMO-3\HoverBot\HoverBot\HoverBot\HoverBot.csproj;arm
